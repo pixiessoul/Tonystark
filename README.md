@@ -64,10 +64,7 @@ You can deploy this bot anywhere.
 </details>
 
 
-<details><summary>Deploy To Heroku Via Bot</summary>
-<p>
-<br>
-<a[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pixiessoul/Tonystark)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pixiessoul/Tonystark)
 
 
 <details><summary>Deploy To VPS</summary>
